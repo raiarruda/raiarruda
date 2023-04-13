@@ -2,6 +2,16 @@
 🔭 Estou trabalhando como desenvolvedora fullstack 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 November 2022 - To: 13 April 2023
+
+Total Time: 195 hrs 43 mins
+
+C#           124 hrs 31 mins >>>>>>>>>>>>>>>>---------   63.62 %
+Other        35 hrs 54 mins  >>>>>--------------------   18.35 %
+```
+
 <!--END_SECTION:waka-->
 
 <img
