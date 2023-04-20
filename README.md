@@ -9,9 +9,6 @@
 ### ✍️ Citações sobre desenvolvimento
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Rindo um pouco
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ### Minhas visitas 💟
 [![](https://visitcount.itsvg.in/api?id=raiarruda&icon=7&color=5)](https://visitcount.itsvg.in)
 
