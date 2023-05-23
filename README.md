@@ -7,10 +7,7 @@
 
 ### Rotina 
 
-<img
-  src="https://wakatime.com/share/@raiarruda/57b57815-4ab8-447f-acb7-876867a36429.png"
-  alt="Avinal WakaTime Activity"
-/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@raiarruda/57b57815-4ab8-447f-acb7-876867a36429.png" /></a>
 
 
 ### ✍️ Citações sobre desenvolvimento
